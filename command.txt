@@ -1,0 +1,31 @@
+#1 one time each project to start git
+git init
+
+#2 every time to add
+git add .
+
+#3 every time you commit
+git commit -m "first commit"
+
+git branch -M main
+git remote add origin https://github.com/java77777777/my-first-github.git
+git push -u origin main
+
+
+
+
+
+
+
+
+
+
+
+==========================================
+echo "# my-first-github" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/java77777777/my-first-github.git
+git push -u origin main
